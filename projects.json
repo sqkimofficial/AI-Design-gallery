@@ -27,6 +27,15 @@
     "createdAt": "2026-11-10"
   },
   {
+    "title": "AI Design Gallery",
+    "author": "Soo",
+    "githubUsername": "sooyeonni",
+    "category": "Slides",
+    "tools": ["GitHub Copilot"],
+    "slug": "ai-design-gallery",
+    "createdAt": "2026-11-19"
+  },
+  {
     "title": "blow&pop (sqkim copy)",
     "author": "sqkim",
     "githubUsername": "sqkimofficial",
